@@ -1,7 +1,6 @@
 {
   "title": "title2",
   "index": 2,
-  "processing": "prop delay",
   "axis": {
     "y": {
       "max": 1,
