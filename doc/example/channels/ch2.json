@@ -1,0 +1,9 @@
+{
+  "name": "ch2",
+  "index": 2,
+  "start_Hz": "1 GHz",
+  "stop_Hz": "8 GHz",
+  "points": 101,
+  "ifbw_Hz": "10 KHz",
+  "power_dBm": -10
+}

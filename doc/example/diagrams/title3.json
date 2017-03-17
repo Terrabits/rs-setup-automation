@@ -1,0 +1,15 @@
+{
+  "title": "title3",
+  "index": 3,
+  "time domain": true,
+  "axis": {
+    "y": {
+      "max": 1,
+      "min": 0
+    },
+    "x": {
+      "start": "0 ns",
+      "stop":  "50 ns"
+    }
+  }
+}

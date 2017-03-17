@@ -1,0 +1,13 @@
+{
+  "name": "Trc1",
+  "diagram": "title1",
+  "parameter": "Sdd21",
+  "markers": {
+    "m1": {
+      "x": "4 GHz",
+    },
+    "m2": {
+      "find": "max"
+    }
+  }
+}

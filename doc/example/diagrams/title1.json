@@ -1,0 +1,10 @@
+{
+  "title": "title1",
+  "index": 1,
+  "axis": {
+    "y": {
+      "max": 20,
+      "min": -80
+    }
+  }
+}
